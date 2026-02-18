@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://farmingtonplumbingco.com/sitemap.xml
